@@ -1,0 +1,14 @@
+FireballsForTesting/
+RMS_data/
+SkyFit2/
+brightness_tests/
+cmn_test/
+*.xlsx
+improving-ukmonshared.txt
+purgeLiveDDB/
+*/keys/
+*/ssh/
+usermgmt/
+wmpl_tests/
+*/__pycache__/
+*/__pytest__/
