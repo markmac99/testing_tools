@@ -1,15 +1,17 @@
-FireballsForTesting/
-RMS_data/
-SkyFit2/
+wmpl_tests/
+auroracam/
 brightness_tests/
 cmn_test/
+FireballsForTesting/
+purgeLiveDDB/
+RMS_data/
+SkyFit2/
 *.xlsx
 improving-ukmonshared.txt
-purgeLiveDDB/
 */keys/
 */ssh/
 usermgmt/
-wmpl_tests/
+
 */__pycache__/
 */__pytest__/
 
@@ -512,3 +514,4 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
